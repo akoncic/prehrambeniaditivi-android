@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Prehrambeni Aditivi</string>
+
+    <string name="menu_action_help">Pomoć</string>
+    <string name="menu_action_glossary">Pojmovnik</string>
+
+    <string name="tab_title_description">Opis</string>
+    <string name="tab_title_permitted_use">Dopuštena Upotreba</string>
+    <string name="tab_title_adi">ADI</string>
+
+    <string name="dialog_progress_message">Učitavanje…</string>
+    <string name="dialog_help_message">Napomena:\nOvisno o utjecaju na ljudsko zdravlje, aditive označene crvenom bojom svakako bi trebalo izbjegavati, aditive označene narančastom bojom ne bi trebalo često konzumirati, dok se za aditive označene zelenom bojom pretpostavlja da ne ugrožavaju ljudsko zdravlje.\n\nUpozorenje:\nInformacije, savjeti i stajališta iznesena u ovoj aplikaciji nemaju namjeru zamijeniti stručni savjet i/ili mišljenje liječnika.\n\nUvjeti Korištenja:\nOva aplikacija distribuirana je u nadi da će biti korisna, ali bez ikakvog jamstva, čak i bez podrazumijevanog jamstva trgovinske prikladnosti i/ili odgovaranja određenoj svrsi.\n\nIzvor Podataka:\nD. Lerotić; I. Vinković Vrček: \"ŠTO SE KRIJE IZA E&#8211;BROJEVA?\"; Udruga za Demokratsko Društvo &#8211; UDD (ISBN: 978&#8211;953&#8211;7006&#8211;07&#8211;5)</string>
+    <string name="dialog_glossary_message">Quantum Satis:\nAko količina aditiva nije propisana Pravilnikom o prehrambenim aditivima, proizvođač sam odlučuje koliko će aditiva dodati nekoj namirnici. Proizvođač bi se pri tome morao ravnati prema načelu dobre proizvođačke prakse utemeljenom na pravilu \"quantum satis\" prema kojem se namirnicama smije dodati samo onoliko aditiva koliko je nužno da se postigne željeni učinak, pod uvjetom da se time ne obmanjuje potrošača.\n\nADI (Acceptable Daily Intake / Prihvatljivi Dnevni Unos):\nKoličina aditiva za koju se smatra da je potrošač može unositi u organizam bez štetnih posljedica po zdravlje. ADI se izražava u miligramima nekog aditiva po kilogramu tjelesne težine (mg/kgtt), a temelji se na rezultatima dobivenim laboratorijskim pokusima na životinjama, takozvani \"No Observed Adverse Effect Level &#8211; NOAEL\". Za ljude se tako dobivene vrijednosti obično umanjuju sto puta.\n\nIzvor Podataka:\nD. Lerotić; I. Vinković Vrček: \"ŠTO SE KRIJE IZA E&#8211;BROJEVA?\"; Udruga za Demokratsko Društvo &#8211; UDD (ISBN: 978&#8211;953&#8211;7006&#8211;07&#8211;5)</string>
+</resources>

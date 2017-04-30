@@ -1,0 +1,14 @@
+<resources>
+    <color name="primary">#4caf50</color>
+    <color name="primary_dark">#388e3c</color>
+    <color name="accent">@color/primary</color>
+
+    <color name="risk_low">#4caf50</color>
+    <color name="risk_low_dark">#388e3c</color>
+
+    <color name="risk_moderate">#ff9800</color>
+    <color name="risk_moderate_dark">#f57c00</color>
+
+    <color name="risk_high">#f44336</color>
+    <color name="risk_high_dark">#d32f2f</color>
+</resources>
